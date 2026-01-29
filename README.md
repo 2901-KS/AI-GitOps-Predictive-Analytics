@@ -128,9 +128,6 @@ AI-GitOps-Predictive-Analytics/
 │   ├── feature_importance.csv
 │   └── sample_predictions.csv
 │
-├── docs/
-│   └── milestone1_summary.md
-│
 ├── requirements.txt
 └── README.md
 ```
